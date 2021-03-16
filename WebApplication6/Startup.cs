@@ -15,6 +15,7 @@ namespace WebApplication6
     {
         public Startup(IConfiguration configuration)
         {
+            //changes
             Configuration = configuration;
         }
 
